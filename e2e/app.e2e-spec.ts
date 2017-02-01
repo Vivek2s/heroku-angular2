@@ -1,10 +1,10 @@
-import { OutgrowBuilderPage } from './app.po';
+import { AngularHerokuPage } from './app.po';
 
-describe('outgrow-builder App', function() {
-  let page: OutgrowBuilderPage;
+describe('angular-heroku App', function() {
+  let page: AngularHerokuPage;
 
   beforeEach(() => {
-    page = new OutgrowBuilderPage();
+    page = new AngularHerokuPage();
   });
 
   it('should display message saying app works', () => {

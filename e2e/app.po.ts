@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class OutgrowBuilderPage {
+export class AngularHerokuPage {
   navigateTo() {
     return browser.get('/');
   }
